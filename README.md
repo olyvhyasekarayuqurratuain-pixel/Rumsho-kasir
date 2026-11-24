@@ -1,0 +1,2 @@
+# Rumsho-kasir
+Aplikasi Kasir
